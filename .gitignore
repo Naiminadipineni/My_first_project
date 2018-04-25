@@ -1,5 +1,6 @@
 tempfile.txt
 tempfile2.txt
+tempfile 2.txt
 .DS_Store
 *.zip
 log/*.log
